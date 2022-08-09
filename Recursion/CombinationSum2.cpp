@@ -1,5 +1,5 @@
 // TC-O(2^t)
-
+// when one element can be repeated twice or more
 class Solution
 {
 public:
